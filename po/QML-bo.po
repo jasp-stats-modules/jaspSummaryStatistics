@@ -1142,8 +1142,7 @@ msgctxt "SummaryStatsTestStatistics|"
 msgid ""
 "Use when sample standard deviation is used to estimate population standard "
 "deviation"
-msgstr ""
-"མ་དཔེའི་ཚད་ལྡན་ཁྱད་འགྱུར་བེད་སྤྱད་ནས་མི་འབོར་ཚད་ལྡན་ཁྱད་འགྱུར་ཚོད་དཔག་བྱེད་སྐབས་བེད་སྤྱོད་བྱེད།"
+msgstr "མ་དཔེའི་ཚད་ལྡན་ཁྱད་འགྱུར་བེད་སྤྱད་ནས་མི་འབོར་ཚད་ལྡན་ཁྱད་འགྱུར་ཚོད་དཔག་བྱེད་སྐབས་བེད་སྤྱོད་བྱེད།"
 
 #, fuzzy
 msgctxt "SummaryStatsTestStatistics|"
@@ -1234,8 +1233,7 @@ msgstr "ཕྱོགས་གཉིས་ཅན།"
 #, fuzzy
 msgctxt "SummaryStatsTestStatistics|"
 msgid "Test if the parameter differs from the null value in either direction"
-msgstr ""
-"ཚད་གཞི་དེ་མེད་པའི་རིན་ཐང་ལས་ཕྱོགས་གང་རུང་དུ་མི་འདྲ་བ་ཡོད་མེད་ཚོད་ལྟ་བྱེད་པ།"
+msgstr "ཚད་གཞི་དེ་མེད་པའི་རིན་ཐང་ལས་ཕྱོགས་གང་རུང་དུ་མི་འདྲ་བ་ཡོད་མེད་ཚོད་ལྟ་བྱེད་པ།"
 
 #, fuzzy
 msgctxt "SummaryStatsTestStatistics|"
